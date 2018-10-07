@@ -1,0 +1,140 @@
+@charset "UTF-8";
+/* CSS Document */
+p{
+    margin: 0;
+    padding: 0;
+}
+span {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Arvo', serif;
+    text-transform: uppercase
+}
+
+.wrapper{
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+.text-seven{
+    font-size: 50px;
+    }
+
+.life {
+    float: right;
+    font-size: 143.5px;
+    line-height: 1em;
+}
+
+.text-three {
+    font-size: 31px;
+
+}
+
+.text-xthree{
+    font-size: 30.5px;
+}
+
+.text-xsthree{
+    font-size: 29.5px;
+    word-spacing: .5px;
+}
+
+.text-six{
+    font-size: 38px;
+}
+.text-xsix{
+    font-size: 39.2px;
+}
+
+.text-xssix{
+    font-size: 41px;
+}
+
+.text-two{
+    font-size: 23.5px;
+    word-spacing: 1px;
+}
+
+.text-xtwo{
+    font-size: 24.5px;
+    word-spacing: 1px;
+}
+
+.text-xstwo{
+	font-size: 26px;
+    word-spacing: 2px;
+}
+
+.stop{
+    font-size: 32px;
+}
+
+.simple{
+    font-size: 51px;
+}
+.emotions {
+    float: right;
+    clear: both;
+    font-size: 18px;
+    line-height: 27px;
+
+}
+
+.eat{
+    font-size:20px;
+
+}
+
+.bite{
+    float: right;
+    clear: both;
+    font-size: 34px;
+}
+
+.text-one{
+    font-size: 22.2px;
+    word-spacing: 5px;
+}
+
+.travel{
+    font-size: 50px;
+}
+
+.lost{
+    font-size:27px;
+    float: right;
+    clear: both;
+}
+
+.find{
+    font-size: 21.5px;
+    float: right;
+    clear: both;
+
+}
+
+.text-four{
+    font-size: 34px;
+}
+
+.text-five{
+	font-size: 39.1px;
+    word-spacing: 2px;
+}
+
+.short{
+    font-size: 76px;
+    float: left;
+    line-height: 75px;
+}
+
+.text-eight{
+    font-size: 65px;
+    line-height: 45px;
+}
